@@ -8,3 +8,4 @@ CODEXBOT_NOTIFICATIONS = ''
 
 # Notify when cert expires in this period of time
 DAYS_LIMIT = 31
+
